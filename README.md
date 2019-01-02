@@ -16,7 +16,7 @@
 >也有提现体系和程序日志.
 >支持直接上传到SAE使用,但要开启Memcached
 
->作者DDMCloud-Event 邮箱admin@DDMCloud.com
+>作者DDMCloud-Event 邮箱admin@0myun.com
 
 ###程序自带API模块,开发文档请见Wiki
 ###数据库词典请前往Wiki查看
