@@ -1,6 +1,5 @@
 # 50ZF 武林支付
 ## 不会搭建的可以联系我收费代搭建
-## QQ2025255093
 武林支付系统(ThinkPHP3.2.2内核,仿MCRMB)
 
 ### 使用GPL3.0开源协议,
@@ -20,7 +19,7 @@
 > 也有提现体系和程序日志.
 > 支持直接上传到SAE使用,但要开启Memcached
 
-> 作者EventMsg(又名 Event) 邮箱admin@0myun.com
+> 邮箱admin@0myun.com
 
 ### 程序自带API模块,开发文档请见Wiki
 ### 数据库词典请前往Wiki查看
