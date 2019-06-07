@@ -19,7 +19,7 @@
 > 也有提现体系和程序日志.
 > 支持直接上传到SAE使用,但要开启Memcached
 
-> 邮箱admin@0myun.com
+> 如需联系清开issue
 
 ### 程序自带API模块,开发文档请见Wiki
 ### 数据库词典请前往Wiki查看
@@ -34,7 +34,7 @@
 7. 在Ucenter创建应用程序,复制配置文件到/api/UcConfig.inc.php
 8. 测试
 
-##### 友情提示,本程序默认使用的支付模块是龙梦云支付.
+##### 友情提示,本程序默认使用的支付模块是自己的云支付.
 ##### 如有需要,可自行另外开发.
 ##### 正式运营前,请在index.php中关闭debug模式,并且清空Runtime缓存
 ![](https://raw.githubusercontent.com/DDMCloud/50ZF/master/DDMCloud.jpg)
